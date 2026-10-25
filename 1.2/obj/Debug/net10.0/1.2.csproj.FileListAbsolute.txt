@@ -1,0 +1,14 @@
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.AssemblyInfoInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.AssemblyInfo.cs
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.csproj.CoreCompileInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\bin\Debug\net10.0\1.2.exe
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\bin\Debug\net10.0\1.2.deps.json
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\bin\Debug\net10.0\1.2.runtimeconfig.json
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\bin\Debug\net10.0\1.2.dll
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\bin\Debug\net10.0\1.2.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.dll
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\refint\1.2.dll
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\1.2.genruntimeconfig.cache
+C:\Users\smr2a\Documents\DAM32\acceso\1.2\obj\Debug\net10.0\ref\1.2.dll

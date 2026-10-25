@@ -1,0 +1,14 @@
+C:\Users\smr2a\Documents\DAM32\acceso\hola\bin\Debug\net10.0\hola.exe
+C:\Users\smr2a\Documents\DAM32\acceso\hola\bin\Debug\net10.0\hola.deps.json
+C:\Users\smr2a\Documents\DAM32\acceso\hola\bin\Debug\net10.0\hola.runtimeconfig.json
+C:\Users\smr2a\Documents\DAM32\acceso\hola\bin\Debug\net10.0\hola.dll
+C:\Users\smr2a\Documents\DAM32\acceso\hola\bin\Debug\net10.0\hola.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.AssemblyInfoInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.AssemblyInfo.cs
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.dll
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\refint\hola.dll
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\hola.genruntimeconfig.cache
+C:\Users\smr2a\Documents\DAM32\acceso\hola\obj\Debug\net10.0\ref\hola.dll
