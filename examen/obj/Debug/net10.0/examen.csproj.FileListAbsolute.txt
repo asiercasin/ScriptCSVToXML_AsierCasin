@@ -1,0 +1,15 @@
+C:\Users\smr2a\Documents\DAM32\acceso\examen\bin\Debug\net10.0\examen.exe
+C:\Users\smr2a\Documents\DAM32\acceso\examen\bin\Debug\net10.0\examen.deps.json
+C:\Users\smr2a\Documents\DAM32\acceso\examen\bin\Debug\net10.0\examen.runtimeconfig.json
+C:\Users\smr2a\Documents\DAM32\acceso\examen\bin\Debug\net10.0\examen.dll
+C:\Users\smr2a\Documents\DAM32\acceso\examen\bin\Debug\net10.0\examen.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.AssemblyInfoInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.AssemblyInfo.cs
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.sourcelink.json
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.dll
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\refint\examen.dll
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.pdb
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\examen.genruntimeconfig.cache
+C:\Users\smr2a\Documents\DAM32\acceso\examen\obj\Debug\net10.0\ref\examen.dll
