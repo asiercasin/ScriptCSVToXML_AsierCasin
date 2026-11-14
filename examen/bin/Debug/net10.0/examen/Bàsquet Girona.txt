@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Bàsquet Girona,UCAM Murcia Club de Baloncesto,89-68,Iroegbu Ike,29,7,6,Bàsquet Girona
+Jornada 2,Basket Zaragoza,Bàsquet Girona,80-83,Aljami Durham,24,11,8,Bàsquet Girona
+Jornada 3,Bàsquet Girona,Real Madrid Baloncesto,80-98,Iroegbu Ike,24,10,11,Bàsquet Girona
+Jornada 4,Fundación Club Baloncesto Granada,Bàsquet Girona,87-72,Jacob Wiley,19,2,12,Fundación Club Baloncesto Granada
+Jornada 5,Bàsquet Girona,Força Lleida Club Esportiu,92-72,Aljami Durham,19,3,10,Bàsquet Girona
+Jornada 6,Club Baloncesto Canarias,Bàsquet Girona,94-81,Bruno Fitipaldo,19,7,10,Club Baloncesto Canarias
+Jornada 7,Club Baloncesto San Pablo Burgos,Bàsquet Girona,79-92,Miha Lapornik,24,2,8,Club Baloncesto San Pablo Burgos
+Jornada 8,Bàsquet Girona,FC Barcelona Baloncesto,91-82,Iroegbu Ike,16,2,5,Bàsquet Girona
+Jornada 9,Bàsquet Club Andorra,Bàsquet Girona,90-83,Shannon Evans,18,4,4,Bàsquet Club Andorra
+Jornada 10,Bàsquet Girona,Saski Baskonia,96-88,Juani Marcos,26,8,6,Bàsquet Girona
+Jornada 11,Club Baloncesto Gran Canaria,Bàsquet Girona,94-102,Juani Marcos,18,10,12,Bàsquet Girona
+Jornada 12,Bàsquet Girona,Club Joventut Badalona,87-98,Ante Tomic,30,2,3,Club Joventut Badalona
+Jornada 13,Club Baloncesto Breogán,Bàsquet Girona,90-98,Juani Marcos,21,2,6,Bàsquet Girona
+Jornada 14,Bàsquet Girona,Bàsquet Manresa,90-86,Juani Marcos,18,5,6,Bàsquet Girona
+Jornada 15,Unicaja Baloncesto,Bàsquet Girona,81-78,Alberto Díaz,25,8,10,Unicaja Baloncesto
+Jornada 16,Bilbao Basket,Bàsquet Girona,91-99,Melwin Pantzar,31,7,7,Bilbao Basket
+Jornada 17,Bàsquet Girona,Valencia Basket,99-77,Juani Marcos,21,4,4,Bàsquet Girona
+Jornada 18,UCAM Murcia Club de Baloncesto,Bàsquet Girona,83-80,Rodions Kurucs,27,10,10,UCAM Murcia Club de Baloncesto
+Jornada 19,Bàsquet Girona,Basket Zaragoza,87-91,AJ Slaughter,27,10,12,Basket Zaragoza
+Jornada 20,Real Madrid Baloncesto,Bàsquet Girona,73-71,Juani Marcos,29,3,9,Bàsquet Girona
+Jornada 21,Bàsquet Girona,Fundación Club Baloncesto Granada,102-82,Juani Marcos,27,3,6,Bàsquet Girona
+Jornada 22,Força Lleida Club Esportiu,Bàsquet Girona,91-81,Oriol Paulí,25,7,3,Força Lleida Club Esportiu
+Jornada 23,Bàsquet Girona,Club Baloncesto Canarias,103-97,Aljami Durham,30,11,12,Bàsquet Girona
+Jornada 24,Bàsquet Girona,Club Baloncesto San Pablo Burgos,75-89,Miha Lapornik,28,6,6,Club Baloncesto San Pablo Burgos
+Jornada 25,FC Barcelona Baloncesto,Bàsquet Girona,82-96,Juani Marcos,23,9,11,Bàsquet Girona
+Jornada 26,Bàsquet Girona,Bàsquet Club Andorra,92-74,Aljami Durham,26,4,4,Bàsquet Girona
+Jornada 27,Saski Baskonia,Bàsquet Girona,104-69,Markus Howard,17,8,7,Saski Baskonia
+Jornada 28,Bàsquet Girona,Club Baloncesto Gran Canaria,103-91,Mike Tobey,24,3,8,Club Baloncesto Gran Canaria
+Jornada 29,Club Joventut Badalona,Bàsquet Girona,80-101,Juani Marcos,24,5,3,Bàsquet Girona
+Jornada 30,Bàsquet Girona,Club Baloncesto Breogán,98-72,Juani Marcos,18,9,9,Bàsquet Girona
+Jornada 31,Bàsquet Manresa,Bàsquet Girona,98-69,Cameron Hunt,25,6,9,Bàsquet Manresa
+Jornada 32,Bàsquet Girona,Unicaja Baloncesto,87-81,Iroegbu Ike,17,6,9,Bàsquet Girona
+Jornada 33,Bàsquet Girona,Bilbao Basket,91-69,Juani Marcos,23,2,11,Bàsquet Girona
+Jornada 34,Valencia Basket,Bàsquet Girona,77-90,Semi Ojeleye,24,9,5,Valencia Basket
+---------------------------------------------------------------------------------------------------------------------

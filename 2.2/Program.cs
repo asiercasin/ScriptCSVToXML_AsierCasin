@@ -1,20 +1,25 @@
 ﻿using System;
+using System.Collections;
 using System.Text;
 using System.Xml;
 using Microsoft.VisualBasic.FileIO;
+using Serilog;
+
+
 
 int caso =0;
 string xmlarch="";
 string csvarch="";
 string[] nombre=null!;
 string[] nom = new string[6]; 
-string carpetaBase=@"bin\Debug\net10.0\2.2";
+string carpetaBase="2.2";
 string rutaArchivoxml = "";
 string rutaArchivocsv = "";
 string genero = "";
 string ano = "";
 string lenguaje = "";
 bool esigual=false;
+bool salirApp = false;
 
 bool existiaAntes = Directory.Exists(carpetaBase);
 
@@ -27,6 +32,7 @@ try{
     {
         Console.WriteLine($"Carpeta creada: {carpetaBase}");
         DirectoryInfo carpeta = Directory.CreateDirectory(carpetaBase);
+        Log.Information("La base de datos ha sido creada");
 
     }
 } catch(Exception ex)
@@ -34,10 +40,15 @@ try{
     Console.WriteLine(ex.Message); 
 }
 
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.File("2.2/log.txt")
+    .CreateLogger();
+
+Log.Information("El usuario se ha conectado");
+
 
 do{
             do{
-                caso=1;
                 Console.WriteLine("CSV a XML");
                 Console.WriteLine("1. Exportar documento a XML");
                 Console.WriteLine("2. Exportar por genero");
@@ -114,6 +125,7 @@ do{
                         xmlWriter.WriteEndElement();
                         xmlWriter.WriteEndDocument();
                     }
+                    log("csv","todo el decumento");
 
                     break;
                     case 2:
@@ -202,7 +214,7 @@ do{
                         xmlWriter.WriteEndElement();
                         xmlWriter.WriteEndDocument();
                     }
-
+                    log("csv",genero);
                     break;
                     case 3:
                     cont = 0;
@@ -279,7 +291,7 @@ do{
                         xmlWriter.WriteEndElement();
                         xmlWriter.WriteEndDocument();
                     }
-
+                    log("csv",ano);
                     break;
                     case 4:
                     cont = 0;
@@ -356,15 +368,20 @@ do{
                         xmlWriter.WriteEndElement();
                         xmlWriter.WriteEndDocument();
                     }
-
+                    log("csv",lenguaje);
+                    break;
+                    case 6:
+                    salirApp = true;
+                    goto FinDelPrograma;
                     break;
 
                 }
             }while(caso!=5);
-        
+            Log.Information("El usuario a cambiado a xml");
+
+            if (salirApp) break;
 
         do{
-            caso=1;
             Console.WriteLine("XML a CSV");
             Console.WriteLine("1. Exportar documento a CSV");
             Console.WriteLine("2. Exportar por genero");
@@ -427,7 +444,7 @@ do{
                 }
 
                 xmlReader.Close();
-
+                log("xml","todo el documento");
                 break;
                 case 2:
                 cont=0;
@@ -489,7 +506,7 @@ do{
                 }
 
                 xmlReader.Close();
-
+                log("xml",genero);
                 break;
                 case 3:
                 cont=0;
@@ -551,7 +568,7 @@ do{
                 }
 
                 xmlReader.Close();
-
+                log("xml",ano);
                 break;
                 case 4:
                 cont=0;
@@ -613,8 +630,44 @@ do{
                 }
 
                 xmlReader.Close();
-
+                log("xml",lenguaje);
                 break;
+                case 6:
+                    salirApp = true;
+                    goto FinDelPrograma;
+                    break;
             }
         }while(caso!=5);
-} while (caso!=6);
+    if (caso == 5)
+    {
+        Log.Information("El usuario a cambiado a csv");
+    }
+    if (caso == 6)
+    {
+        break;
+    }
+}while(!salirApp);
+FinDelPrograma:
+
+Log.Information("El usuario ha salido");
+
+void log(string tipo,string exportar)
+{
+    
+
+    Log.Information("El usuario ha usado el caso '{caso}'",caso);
+
+    if (tipo == "csv")
+    {
+        Log.Information("Fichero Origen csv (Path): '{rutaArchivocsv}'", rutaArchivocsv);
+        Log.Information("Fichero Destino xml (Path): '{rutaArchivoxml}'", rutaArchivoxml);
+    }else if (tipo == "xml")
+    {
+        Log.Information("Fichero Origen xml (Path): '{rutaArchivoxml}'", rutaArchivoxml);
+        Log.Information("Fichero Destino csv (Path): '{rutaArchivocsv}'", rutaArchivocsv);
+    }
+
+
+    Log.Information("Los datos por los que ha exportado el usuario es '{exportar}'",exportar);
+    
+}

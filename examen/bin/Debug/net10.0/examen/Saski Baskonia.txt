@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Club Baloncesto Canarias,Saski Baskonia,84-81,Marcelinho Huertas,19,7,7,Club Baloncesto Canarias
+Jornada 2,Saski Baskonia,Club Baloncesto San Pablo Burgos,103-93,Dani Díez,30,4,6,Club Baloncesto San Pablo Burgos
+Jornada 3,FC Barcelona Baloncesto,Saski Baskonia,81-91,Chima Moneke,32,2,11,Saski Baskonia
+Jornada 4,Saski Baskonia,Bàsquet Club Andorra,76-100,Nikos Chougkaz,31,5,10,Bàsquet Club Andorra
+Jornada 5,Unicaja Baloncesto,Saski Baskonia,96-84,Markus Howard,25,8,10,Saski Baskonia
+Jornada 6,Club Baloncesto Gran Canaria,Saski Baskonia,105-68,Mike Tobey,25,3,4,Club Baloncesto Gran Canaria
+Jornada 7,Saski Baskonia,Club Joventut Badalona,82-74,Timothé Luwawu-Cabarrot,31,5,5,Saski Baskonia
+Jornada 8,Club Baloncesto Breogán,Saski Baskonia,84-94,Markus Howard,21,11,11,Saski Baskonia
+Jornada 9,Saski Baskonia,Bàsquet Manresa,100-78,Markus Howard,30,6,5,Saski Baskonia
+Jornada 10,Bàsquet Girona,Saski Baskonia,96-88,Juani Marcos,26,8,6,Bàsquet Girona
+Jornada 11,Saski Baskonia,Bilbao Basket,101-77,Chima Moneke,32,6,11,Saski Baskonia
+Jornada 12,Valencia Basket,Saski Baskonia,83-80,Chris Jones,24,11,10,Valencia Basket
+Jornada 13,Saski Baskonia,UCAM Murcia Club de Baloncesto,77-78,Rodions Kurucs,18,4,2,UCAM Murcia Club de Baloncesto
+Jornada 14,Saski Baskonia,Basket Zaragoza,101-99,Markus Howard,26,7,12,Saski Baskonia
+Jornada 15,Real Madrid Baloncesto,Saski Baskonia,104-85,Facundo Campazzo,31,5,9,Real Madrid Baloncesto
+Jornada 16,Saski Baskonia,Fundación Club Baloncesto Granada,81-72,Markus Howard,26,11,8,Saski Baskonia
+Jornada 17,Força Lleida Club Esportiu,Saski Baskonia,90-102,Markus Howard,27,11,6,Saski Baskonia
+Jornada 18,Saski Baskonia,Club Baloncesto Canarias,89-78,Markus Howard,25,7,3,Saski Baskonia
+Jornada 19,Club Baloncesto San Pablo Burgos,Saski Baskonia,98-85,Gonzalo Corbalán,22,9,9,Club Baloncesto San Pablo Burgos
+Jornada 20,Saski Baskonia,FC Barcelona Baloncesto,88-71,Markus Howard,32,3,3,Saski Baskonia
+Jornada 21,Bàsquet Club Andorra,Saski Baskonia,98-74,Shannon Evans,24,7,4,Bàsquet Club Andorra
+Jornada 22,Saski Baskonia,Unicaja Baloncesto,72-79,Chima Moneke,28,3,4,Saski Baskonia
+Jornada 23,Saski Baskonia,Club Baloncesto Gran Canaria,74-95,Nicolas Brussino,26,11,8,Club Baloncesto Gran Canaria
+Jornada 24,Club Joventut Badalona,Saski Baskonia,101-96,Ante Tomic,25,3,12,Club Joventut Badalona
+Jornada 25,Saski Baskonia,Club Baloncesto Breogán,99-100,Toni Nakic,25,4,5,Club Baloncesto Breogán
+Jornada 26,Bàsquet Manresa,Saski Baskonia,86-96,Derrick Alston Jr,29,2,8,Bàsquet Manresa
+Jornada 27,Saski Baskonia,Bàsquet Girona,104-69,Markus Howard,17,8,7,Saski Baskonia
+Jornada 28,Bilbao Basket,Saski Baskonia,77-88,Markus Howard,30,11,8,Saski Baskonia
+Jornada 29,Saski Baskonia,Valencia Basket,92-90,Chima Moneke,25,6,4,Saski Baskonia
+Jornada 30,UCAM Murcia Club de Baloncesto,Saski Baskonia,81-78,Rodions Kurucs,26,11,2,UCAM Murcia Club de Baloncesto
+Jornada 31,Basket Zaragoza,Saski Baskonia,103-87,Santi Yusta,28,10,9,Basket Zaragoza
+Jornada 32,Saski Baskonia,Real Madrid Baloncesto,81-100,Walter Tavares,26,4,8,Real Madrid Baloncesto
+Jornada 33,Fundación Club Baloncesto Granada,Saski Baskonia,102-101,Amine Noua,30,10,7,Fundación Club Baloncesto Granada
+Jornada 34,Saski Baskonia,Força Lleida Club Esportiu,78-94,Oriol Paulí,19,4,2,Força Lleida Club Esportiu
+---------------------------------------------------------------------------------------------------------------------

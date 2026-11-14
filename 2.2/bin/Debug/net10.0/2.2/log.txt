@@ -1,0 +1,15 @@
+2026-11-14 20:19:09.775 +01:00 [INF] El usuario se ha conectado
+2026-11-14 20:20:03.955 +01:00 [INF] El usuario ha usado el caso '2'
+2026-11-14 20:20:03.958 +01:00 [INF] Fichero Origen csv (Path): '2.2\NetflixOriginals.csv'
+2026-11-14 20:20:03.958 +01:00 [INF] Fichero Destino xml (Path): '2.2\hola.xml'
+2026-11-14 20:20:03.958 +01:00 [INF] Los datos por los que ha exportado el usuario es 'Thriller'
+2026-11-14 20:20:39.645 +01:00 [INF] El usuario ha usado el caso '4'
+2026-11-14 20:20:39.645 +01:00 [INF] Fichero Origen csv (Path): '2.2\NetflixOriginals.csv'
+2026-11-14 20:20:39.645 +01:00 [INF] Fichero Destino xml (Path): '2.2\hola.xml'
+2026-11-14 20:20:39.645 +01:00 [INF] Los datos por los que ha exportado el usuario es 'Spanish'
+2026-11-14 20:20:43.161 +01:00 [INF] El usuario a cambiado a xml
+2026-11-14 20:21:08.970 +01:00 [INF] El usuario ha usado el caso '1'
+2026-11-14 20:21:08.970 +01:00 [INF] Fichero Origen xml (Path): '2.2\hola.xml'
+2026-11-14 20:21:08.970 +01:00 [INF] Fichero Destino csv (Path): '2.2\nerflis.csv'
+2026-11-14 20:21:08.970 +01:00 [INF] Los datos por los que ha exportado el usuario es 'todo el documento'
+2026-11-14 20:21:12.332 +01:00 [INF] El usuario ha salido

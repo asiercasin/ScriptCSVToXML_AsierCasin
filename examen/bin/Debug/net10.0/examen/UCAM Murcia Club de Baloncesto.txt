@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Bàsquet Girona,UCAM Murcia Club de Baloncesto,89-68,Iroegbu Ike,29,7,6,Bàsquet Girona
+Jornada 2,UCAM Murcia Club de Baloncesto,Bilbao Basket,97-85,Rodions Kurucs,26,5,12,UCAM Murcia Club de Baloncesto
+Jornada 3,Valencia Basket,UCAM Murcia Club de Baloncesto,104-74,Dylan Ennis,32,11,5,UCAM Murcia Club de Baloncesto
+Jornada 4,UCAM Murcia Club de Baloncesto,Unicaja Baloncesto,77-72,David DeJulius,18,2,7,UCAM Murcia Club de Baloncesto
+Jornada 5,UCAM Murcia Club de Baloncesto,Basket Zaragoza,103-77,David DeJulius,17,11,10,UCAM Murcia Club de Baloncesto
+Jornada 6,Real Madrid Baloncesto,UCAM Murcia Club de Baloncesto,88-75,Rodions Kurucs,20,6,6,UCAM Murcia Club de Baloncesto
+Jornada 7,UCAM Murcia Club de Baloncesto,Fundación Club Baloncesto Granada,101-90,David DeJulius,23,2,12,UCAM Murcia Club de Baloncesto
+Jornada 8,Força Lleida Club Esportiu,UCAM Murcia Club de Baloncesto,91-93,David DeJulius,25,6,5,UCAM Murcia Club de Baloncesto
+Jornada 9,UCAM Murcia Club de Baloncesto,Club Baloncesto Canarias,89-101,Giorgi Shermadini,24,9,3,Club Baloncesto Canarias
+Jornada 10,Club Baloncesto San Pablo Burgos,UCAM Murcia Club de Baloncesto,98-84,Gonzalo Corbalán,16,10,2,Club Baloncesto San Pablo Burgos
+Jornada 11,UCAM Murcia Club de Baloncesto,FC Barcelona Baloncesto,102-97,Rodions Kurucs,24,7,5,UCAM Murcia Club de Baloncesto
+Jornada 12,Bàsquet Club Andorra,UCAM Murcia Club de Baloncesto,90-74,Shannon Evans,23,7,4,Bàsquet Club Andorra
+Jornada 13,Saski Baskonia,UCAM Murcia Club de Baloncesto,77-78,Rodions Kurucs,18,4,2,UCAM Murcia Club de Baloncesto
+Jornada 14,UCAM Murcia Club de Baloncesto,Club Baloncesto Gran Canaria,74-79,Mike Tobey,30,6,4,Club Baloncesto Gran Canaria
+Jornada 15,Club Joventut Badalona,UCAM Murcia Club de Baloncesto,79-97,Artem Pustovyi,20,9,6,Club Joventut Badalona
+Jornada 16,UCAM Murcia Club de Baloncesto,Club Baloncesto Breogán,78-96,Toni Nakic,16,4,8,Club Baloncesto Breogán
+Jornada 17,Bàsquet Manresa,UCAM Murcia Club de Baloncesto,86-97,Dylan Ennis,24,2,9,UCAM Murcia Club de Baloncesto
+Jornada 18,UCAM Murcia Club de Baloncesto,Bàsquet Girona,83-80,Rodions Kurucs,27,10,10,UCAM Murcia Club de Baloncesto
+Jornada 19,Bilbao Basket,UCAM Murcia Club de Baloncesto,98-77,Rodions Kurucs,19,9,11,UCAM Murcia Club de Baloncesto
+Jornada 20,UCAM Murcia Club de Baloncesto,Valencia Basket,72-90,Jean Montero,26,2,4,Valencia Basket
+Jornada 21,Unicaja Baloncesto,UCAM Murcia Club de Baloncesto,99-96,Dylan Ennis,26,9,8,UCAM Murcia Club de Baloncesto
+Jornada 22,Basket Zaragoza,UCAM Murcia Club de Baloncesto,78-73,Bojan Dubljevic,29,9,7,Basket Zaragoza
+Jornada 23,UCAM Murcia Club de Baloncesto,Real Madrid Baloncesto,97-94,Dylan Ennis,16,7,4,UCAM Murcia Club de Baloncesto
+Jornada 24,Fundación Club Baloncesto Granada,UCAM Murcia Club de Baloncesto,77-100,Rodions Kurucs,17,9,11,UCAM Murcia Club de Baloncesto
+Jornada 25,UCAM Murcia Club de Baloncesto,Força Lleida Club Esportiu,93-99,Luka Bozic,20,3,6,Força Lleida Club Esportiu
+Jornada 26,Club Baloncesto Canarias,UCAM Murcia Club de Baloncesto,104-91,Giorgi Shermadini,27,5,2,Club Baloncesto Canarias
+Jornada 27,UCAM Murcia Club de Baloncesto,Club Baloncesto San Pablo Burgos,88-69,David DeJulius,27,5,12,UCAM Murcia Club de Baloncesto
+Jornada 28,FC Barcelona Baloncesto,UCAM Murcia Club de Baloncesto,82-96,David DeJulius,27,11,8,UCAM Murcia Club de Baloncesto
+Jornada 29,UCAM Murcia Club de Baloncesto,Bàsquet Club Andorra,83-91,Jerrick Harding,22,4,5,Bàsquet Club Andorra
+Jornada 30,UCAM Murcia Club de Baloncesto,Saski Baskonia,81-78,Rodions Kurucs,26,11,2,UCAM Murcia Club de Baloncesto
+Jornada 31,Club Baloncesto Gran Canaria,UCAM Murcia Club de Baloncesto,92-88,Nicolas Brussino,31,10,9,Club Baloncesto Gran Canaria
+Jornada 32,UCAM Murcia Club de Baloncesto,Club Joventut Badalona,74-70,Dylan Ennis,31,10,9,UCAM Murcia Club de Baloncesto
+Jornada 33,Club Baloncesto Breogán,UCAM Murcia Club de Baloncesto,102-71,Darrun Hilliard,22,10,7,Club Baloncesto Breogán
+Jornada 34,UCAM Murcia Club de Baloncesto,Bàsquet Manresa,87-83,Rodions Kurucs,23,5,2,UCAM Murcia Club de Baloncesto
+---------------------------------------------------------------------------------------------------------------------

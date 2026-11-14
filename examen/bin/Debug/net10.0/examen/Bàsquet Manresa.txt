@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Bàsquet Manresa,Basket Zaragoza,88-70,Cameron Hunt,19,8,3,Bàsquet Manresa
+Jornada 2,Real Madrid Baloncesto,Bàsquet Manresa,77-75,Walter Tavares,29,11,3,Real Madrid Baloncesto
+Jornada 3,Bàsquet Manresa,Fundación Club Baloncesto Granada,95-96,Retin Obasohan,19,5,5,Bàsquet Manresa
+Jornada 4,Força Lleida Club Esportiu,Bàsquet Manresa,102-81,Derrick Alston Jr,21,8,2,Bàsquet Manresa
+Jornada 5,Club Baloncesto Canarias,Bàsquet Manresa,85-100,Retin Obasohan,18,5,7,Bàsquet Manresa
+Jornada 6,Bàsquet Manresa,Club Baloncesto San Pablo Burgos,95-77,Derrick Alston Jr,25,7,2,Bàsquet Manresa
+Jornada 7,FC Barcelona Baloncesto,Bàsquet Manresa,88-79,Willy Hernangómez,17,3,11,FC Barcelona Baloncesto
+Jornada 8,Bàsquet Manresa,Bàsquet Club Andorra,99-88,Retin Obasohan,22,10,9,Bàsquet Manresa
+Jornada 9,Saski Baskonia,Bàsquet Manresa,100-78,Markus Howard,30,6,5,Saski Baskonia
+Jornada 10,Bàsquet Manresa,Club Baloncesto Gran Canaria,101-76,Mike Tobey,16,8,11,Club Baloncesto Gran Canaria
+Jornada 11,Club Joventut Badalona,Bàsquet Manresa,96-93,Derrick Alston Jr,18,11,12,Bàsquet Manresa
+Jornada 12,Bàsquet Manresa,Club Baloncesto Breogán,94-84,Cameron Hunt,24,10,2,Bàsquet Manresa
+Jornada 13,Unicaja Baloncesto,Bàsquet Manresa,91-68,Kendrick Perry,24,2,2,Unicaja Baloncesto
+Jornada 14,Bàsquet Girona,Bàsquet Manresa,90-86,Juani Marcos,18,5,6,Bàsquet Girona
+Jornada 15,Bàsquet Manresa,Bilbao Basket,104-68,Cameron Hunt,30,8,2,Bàsquet Manresa
+Jornada 16,Valencia Basket,Bàsquet Manresa,86-94,Cameron Hunt,31,8,8,Bàsquet Manresa
+Jornada 17,Bàsquet Manresa,UCAM Murcia Club de Baloncesto,86-97,Dylan Ennis,24,2,9,UCAM Murcia Club de Baloncesto
+Jornada 18,Basket Zaragoza,Bàsquet Manresa,101-72,Santi Yusta,28,10,7,Basket Zaragoza
+Jornada 19,Bàsquet Manresa,Real Madrid Baloncesto,85-69,Retin Obasohan,23,4,11,Bàsquet Manresa
+Jornada 20,Fundación Club Baloncesto Granada,Bàsquet Manresa,89-88,Jacob Wiley,32,6,9,Fundación Club Baloncesto Granada
+Jornada 21,Bàsquet Manresa,Força Lleida Club Esportiu,89-69,Cameron Hunt,25,7,7,Bàsquet Manresa
+Jornada 22,Bàsquet Manresa,Club Baloncesto Canarias,72-99,Giorgi Shermadini,20,8,10,Club Baloncesto Canarias
+Jornada 23,Club Baloncesto San Pablo Burgos,Bàsquet Manresa,81-84,Cameron Hunt,20,3,4,Bàsquet Manresa
+Jornada 24,Bàsquet Manresa,FC Barcelona Baloncesto,87-96,Cameron Hunt,32,11,4,Bàsquet Manresa
+Jornada 25,Bàsquet Club Andorra,Bàsquet Manresa,78-100,Cameron Hunt,32,2,12,Bàsquet Manresa
+Jornada 26,Bàsquet Manresa,Saski Baskonia,86-96,Derrick Alston Jr,29,2,8,Bàsquet Manresa
+Jornada 27,Club Baloncesto Gran Canaria,Bàsquet Manresa,99-68,Nicolas Brussino,29,4,12,Club Baloncesto Gran Canaria
+Jornada 28,Bàsquet Manresa,Club Joventut Badalona,84-86,Ricky Rubio,26,6,3,Club Joventut Badalona
+Jornada 29,Club Baloncesto Breogán,Bàsquet Manresa,76-83,Retin Obasohan,27,8,11,Bàsquet Manresa
+Jornada 30,Bàsquet Manresa,Unicaja Baloncesto,103-69,Cameron Hunt,27,9,10,Bàsquet Manresa
+Jornada 31,Bàsquet Manresa,Bàsquet Girona,98-69,Cameron Hunt,25,6,9,Bàsquet Manresa
+Jornada 32,Bilbao Basket,Bàsquet Manresa,95-93,Melwin Pantzar,17,11,10,Bilbao Basket
+Jornada 33,Bàsquet Manresa,Valencia Basket,87-70,Cameron Hunt,19,5,2,Bàsquet Manresa
+Jornada 34,UCAM Murcia Club de Baloncesto,Bàsquet Manresa,87-83,Rodions Kurucs,23,5,2,UCAM Murcia Club de Baloncesto
+---------------------------------------------------------------------------------------------------------------------

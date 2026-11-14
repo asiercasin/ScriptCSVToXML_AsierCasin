@@ -1,0 +1,12 @@
+Los datos de la Jornada 23 son
+---------------------------------------------------------------------------------------------------------------------
+Jornada 23,Unicaja Baloncesto,Basket Zaragoza,86-100,AJ Slaughter,27,3,8,Basket Zaragoza
+Jornada 23,Saski Baskonia,Club Baloncesto Gran Canaria,74-95,Nicolas Brussino,26,11,8,Club Baloncesto Gran Canaria
+Jornada 23,UCAM Murcia Club de Baloncesto,Real Madrid Baloncesto,97-94,Dylan Ennis,16,7,4,UCAM Murcia Club de Baloncesto
+Jornada 23,Bàsquet Club Andorra,Club Joventut Badalona,101-91,Jerrick Harding,23,8,11,Bàsquet Club Andorra
+Jornada 23,Valencia Basket,Fundación Club Baloncesto Granada,97-101,Sergi García,26,5,7,Fundación Club Baloncesto Granada
+Jornada 23,FC Barcelona Baloncesto,Club Baloncesto Breogán,82-72,Kevin Punter,32,10,5,FC Barcelona Baloncesto
+Jornada 23,Bilbao Basket,Força Lleida Club Esportiu,94-90,Kristian Kullamae,20,5,3,Bilbao Basket
+Jornada 23,Club Baloncesto San Pablo Burgos,Bàsquet Manresa,81-84,Cameron Hunt,20,3,4,Bàsquet Manresa
+Jornada 23,Bàsquet Girona,Club Baloncesto Canarias,103-97,Aljami Durham,30,11,12,Bàsquet Girona
+---------------------------------------------------------------------------------------------------------------------

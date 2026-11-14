@@ -1,0 +1,6 @@
+2026-11-14 19:38:10.221 +01:00 [INF] El usuario se ha conectado
+2026-11-14 19:41:58.651 +01:00 [INF] El usuario se ha conectado
+2026-11-14 19:44:46.185 +01:00 [INF] El usuario se ha conectado
+2026-11-14 19:48:22.930 +01:00 [INF] El usuario se ha conectado
+2026-11-14 19:49:52.952 +01:00 [INF] El usuario se ha conectado
+2026-11-14 19:50:10.987 +01:00 [INF] El usuario se ha conectado

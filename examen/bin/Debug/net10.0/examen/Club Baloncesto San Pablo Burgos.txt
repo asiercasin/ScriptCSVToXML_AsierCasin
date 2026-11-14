@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Club Baloncesto San Pablo Burgos,Bàsquet Club Andorra,73-80,Nikos Chougkaz,29,5,9,Bàsquet Club Andorra
+Jornada 2,Saski Baskonia,Club Baloncesto San Pablo Burgos,103-93,Dani Díez,30,4,6,Club Baloncesto San Pablo Burgos
+Jornada 3,Club Baloncesto San Pablo Burgos,Club Baloncesto Gran Canaria,87-73,Gonzalo Corbalán,18,10,4,Club Baloncesto San Pablo Burgos
+Jornada 4,Club Joventut Badalona,Club Baloncesto San Pablo Burgos,84-102,Gonzalo Corbalán,21,6,9,Club Baloncesto San Pablo Burgos
+Jornada 5,Club Baloncesto San Pablo Burgos,Club Baloncesto Breogán,85-88,Toni Nakic,20,6,9,Club Baloncesto Breogán
+Jornada 6,Bàsquet Manresa,Club Baloncesto San Pablo Burgos,95-77,Derrick Alston Jr,25,7,2,Bàsquet Manresa
+Jornada 7,Club Baloncesto San Pablo Burgos,Bàsquet Girona,79-92,Miha Lapornik,24,2,8,Club Baloncesto San Pablo Burgos
+Jornada 8,Club Baloncesto San Pablo Burgos,Bilbao Basket,102-72,Dani Díez,22,8,9,Club Baloncesto San Pablo Burgos
+Jornada 9,Valencia Basket,Club Baloncesto San Pablo Burgos,86-92,Dani Díez,22,3,8,Club Baloncesto San Pablo Burgos
+Jornada 10,Club Baloncesto San Pablo Burgos,UCAM Murcia Club de Baloncesto,98-84,Gonzalo Corbalán,16,10,2,Club Baloncesto San Pablo Burgos
+Jornada 11,Basket Zaragoza,Club Baloncesto San Pablo Burgos,93-68,Bojan Dubljevic,19,8,7,Basket Zaragoza
+Jornada 12,Club Baloncesto San Pablo Burgos,Real Madrid Baloncesto,90-82,Miha Lapornik,25,11,7,Club Baloncesto San Pablo Burgos
+Jornada 13,Fundación Club Baloncesto Granada,Club Baloncesto San Pablo Burgos,102-75,Sergi García,31,3,11,Fundación Club Baloncesto Granada
+Jornada 14,Club Baloncesto San Pablo Burgos,Força Lleida Club Esportiu,84-95,Luka Bozic,20,6,4,Força Lleida Club Esportiu
+Jornada 15,Club Baloncesto Canarias,Club Baloncesto San Pablo Burgos,74-97,Gonzalo Corbalán,26,3,8,Club Baloncesto San Pablo Burgos
+Jornada 16,Club Baloncesto San Pablo Burgos,Unicaja Baloncesto,89-94,Tyson Carter,24,2,6,Unicaja Baloncesto
+Jornada 17,Club Baloncesto San Pablo Burgos,FC Barcelona Baloncesto,91-69,Miha Lapornik,25,7,7,Club Baloncesto San Pablo Burgos
+Jornada 18,Bàsquet Club Andorra,Club Baloncesto San Pablo Burgos,74-91,Miha Lapornik,25,7,8,Club Baloncesto San Pablo Burgos
+Jornada 19,Club Baloncesto San Pablo Burgos,Saski Baskonia,98-85,Gonzalo Corbalán,22,9,9,Club Baloncesto San Pablo Burgos
+Jornada 20,Club Baloncesto Gran Canaria,Club Baloncesto San Pablo Burgos,86-70,Mike Tobey,32,6,9,Club Baloncesto Gran Canaria
+Jornada 21,Club Baloncesto San Pablo Burgos,Club Joventut Badalona,91-90,Dani Díez,22,4,12,Club Baloncesto San Pablo Burgos
+Jornada 22,Club Baloncesto Breogán,Club Baloncesto San Pablo Burgos,91-70,Darrun Hilliard,17,2,5,Club Baloncesto Breogán
+Jornada 23,Club Baloncesto San Pablo Burgos,Bàsquet Manresa,81-84,Cameron Hunt,20,3,4,Bàsquet Manresa
+Jornada 24,Bàsquet Girona,Club Baloncesto San Pablo Burgos,75-89,Miha Lapornik,28,6,6,Club Baloncesto San Pablo Burgos
+Jornada 25,Bilbao Basket,Club Baloncesto San Pablo Burgos,90-96,Miha Lapornik,25,9,5,Club Baloncesto San Pablo Burgos
+Jornada 26,Club Baloncesto San Pablo Burgos,Valencia Basket,74-86,Gonzalo Corbalán,20,9,9,Club Baloncesto San Pablo Burgos
+Jornada 27,UCAM Murcia Club de Baloncesto,Club Baloncesto San Pablo Burgos,88-69,David DeJulius,27,5,12,UCAM Murcia Club de Baloncesto
+Jornada 28,Club Baloncesto San Pablo Burgos,Basket Zaragoza,77-95,Santi Yusta,25,7,3,Basket Zaragoza
+Jornada 29,Real Madrid Baloncesto,Club Baloncesto San Pablo Burgos,73-79,Gonzalo Corbalán,19,6,6,Club Baloncesto San Pablo Burgos
+Jornada 30,Club Baloncesto San Pablo Burgos,Fundación Club Baloncesto Granada,105-90,Dani Díez,21,4,8,Club Baloncesto San Pablo Burgos
+Jornada 31,Força Lleida Club Esportiu,Club Baloncesto San Pablo Burgos,87-93,Miha Lapornik,17,4,9,Club Baloncesto San Pablo Burgos
+Jornada 32,Club Baloncesto San Pablo Burgos,Club Baloncesto Canarias,102-86,Miha Lapornik,29,4,6,Club Baloncesto San Pablo Burgos
+Jornada 33,Unicaja Baloncesto,Club Baloncesto San Pablo Burgos,102-69,Tyson Carter,19,8,11,Unicaja Baloncesto
+Jornada 34,FC Barcelona Baloncesto,Club Baloncesto San Pablo Burgos,96-93,Kevin Punter,25,2,6,FC Barcelona Baloncesto
+---------------------------------------------------------------------------------------------------------------------

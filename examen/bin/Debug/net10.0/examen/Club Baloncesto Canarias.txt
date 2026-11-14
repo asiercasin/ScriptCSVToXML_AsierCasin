@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Club Baloncesto Canarias,Saski Baskonia,84-81,Marcelinho Huertas,19,7,7,Club Baloncesto Canarias
+Jornada 2,Club Baloncesto Gran Canaria,Club Baloncesto Canarias,97-91,Nicolas Brussino,32,9,3,Club Baloncesto Gran Canaria
+Jornada 3,Club Baloncesto Canarias,Club Joventut Badalona,99-81,Artem Pustovyi,22,6,8,Club Joventut Badalona
+Jornada 4,Club Baloncesto Breogán,Club Baloncesto Canarias,72-73,Charlie Moore,21,8,9,Club Baloncesto Breogán
+Jornada 5,Club Baloncesto Canarias,Bàsquet Manresa,85-100,Retin Obasohan,18,5,7,Bàsquet Manresa
+Jornada 6,Club Baloncesto Canarias,Bàsquet Girona,94-81,Bruno Fitipaldo,19,7,10,Club Baloncesto Canarias
+Jornada 7,Bilbao Basket,Club Baloncesto Canarias,99-90,Melwin Pantzar,29,11,10,Bilbao Basket
+Jornada 8,Club Baloncesto Canarias,Valencia Basket,82-73,Bruno Fitipaldo,26,3,5,Club Baloncesto Canarias
+Jornada 9,UCAM Murcia Club de Baloncesto,Club Baloncesto Canarias,89-101,Giorgi Shermadini,24,9,3,Club Baloncesto Canarias
+Jornada 10,Club Baloncesto Canarias,Basket Zaragoza,78-73,Marcelinho Huertas,21,2,6,Club Baloncesto Canarias
+Jornada 11,Real Madrid Baloncesto,Club Baloncesto Canarias,87-74,Facundo Campazzo,19,11,2,Real Madrid Baloncesto
+Jornada 12,Club Baloncesto Canarias,Fundación Club Baloncesto Granada,105-80,Bruno Fitipaldo,29,9,10,Club Baloncesto Canarias
+Jornada 13,Força Lleida Club Esportiu,Club Baloncesto Canarias,90-76,Oriol Paulí,19,2,11,Força Lleida Club Esportiu
+Jornada 14,Club Baloncesto Canarias,Unicaja Baloncesto,98-96,Marcelinho Huertas,25,2,5,Club Baloncesto Canarias
+Jornada 15,Club Baloncesto Canarias,Club Baloncesto San Pablo Burgos,74-97,Gonzalo Corbalán,26,3,8,Club Baloncesto San Pablo Burgos
+Jornada 16,FC Barcelona Baloncesto,Club Baloncesto Canarias,96-97,Kevin Punter,23,11,8,FC Barcelona Baloncesto
+Jornada 17,Club Baloncesto Canarias,Bàsquet Club Andorra,77-92,Jerrick Harding,31,11,4,Bàsquet Club Andorra
+Jornada 18,Saski Baskonia,Club Baloncesto Canarias,89-78,Markus Howard,25,7,3,Saski Baskonia
+Jornada 19,Club Baloncesto Canarias,Club Baloncesto Gran Canaria,94-71,Giorgi Shermadini,19,9,3,Club Baloncesto Canarias
+Jornada 20,Club Joventut Badalona,Club Baloncesto Canarias,100-72,Marcelinho Huertas,20,3,4,Club Baloncesto Canarias
+Jornada 21,Club Baloncesto Canarias,Club Baloncesto Breogán,86-95,Darrun Hilliard,16,11,12,Club Baloncesto Breogán
+Jornada 22,Bàsquet Manresa,Club Baloncesto Canarias,72-99,Giorgi Shermadini,20,8,10,Club Baloncesto Canarias
+Jornada 23,Bàsquet Girona,Club Baloncesto Canarias,103-97,Aljami Durham,30,11,12,Bàsquet Girona
+Jornada 24,Club Baloncesto Canarias,Bilbao Basket,95-91,Melwin Pantzar,29,7,12,Bilbao Basket
+Jornada 25,Valencia Basket,Club Baloncesto Canarias,93-76,Jean Montero,21,4,11,Valencia Basket
+Jornada 26,Club Baloncesto Canarias,UCAM Murcia Club de Baloncesto,104-91,Giorgi Shermadini,27,5,2,Club Baloncesto Canarias
+Jornada 27,Basket Zaragoza,Club Baloncesto Canarias,77-101,Santi Yusta,32,10,10,Basket Zaragoza
+Jornada 28,Club Baloncesto Canarias,Real Madrid Baloncesto,98-95,Marcelinho Huertas,26,4,9,Club Baloncesto Canarias
+Jornada 29,Fundación Club Baloncesto Granada,Club Baloncesto Canarias,74-77,Marcelinho Huertas,27,9,3,Club Baloncesto Canarias
+Jornada 30,Club Baloncesto Canarias,Força Lleida Club Esportiu,80-73,Marcelinho Huertas,31,10,8,Club Baloncesto Canarias
+Jornada 31,Unicaja Baloncesto,Club Baloncesto Canarias,75-73,Bruno Fitipaldo,24,5,11,Club Baloncesto Canarias
+Jornada 32,Club Baloncesto San Pablo Burgos,Club Baloncesto Canarias,102-86,Miha Lapornik,29,4,6,Club Baloncesto San Pablo Burgos
+Jornada 33,Club Baloncesto Canarias,FC Barcelona Baloncesto,102-78,Bruno Fitipaldo,28,4,12,Club Baloncesto Canarias
+Jornada 34,Bàsquet Club Andorra,Club Baloncesto Canarias,84-102,Bruno Fitipaldo,24,4,3,Club Baloncesto Canarias
+---------------------------------------------------------------------------------------------------------------------

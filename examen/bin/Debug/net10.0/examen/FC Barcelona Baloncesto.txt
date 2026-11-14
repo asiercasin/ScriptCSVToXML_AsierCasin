@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Unicaja Baloncesto,FC Barcelona Baloncesto,79-69,Kendrick Perry,23,4,3,Unicaja Baloncesto
+Jornada 2,Bàsquet Club Andorra,FC Barcelona Baloncesto,86-88,Kevin Punter,23,2,7,FC Barcelona Baloncesto
+Jornada 3,FC Barcelona Baloncesto,Saski Baskonia,81-91,Chima Moneke,32,2,11,Saski Baskonia
+Jornada 4,Club Baloncesto Gran Canaria,FC Barcelona Baloncesto,78-95,Willy Hernangómez,30,2,12,FC Barcelona Baloncesto
+Jornada 5,FC Barcelona Baloncesto,Club Joventut Badalona,76-83,Artem Pustovyi,23,11,11,Club Joventut Badalona
+Jornada 6,Club Baloncesto Breogán,FC Barcelona Baloncesto,93-76,Toni Nakic,21,9,10,Club Baloncesto Breogán
+Jornada 7,FC Barcelona Baloncesto,Bàsquet Manresa,88-79,Willy Hernangómez,17,3,11,FC Barcelona Baloncesto
+Jornada 8,Bàsquet Girona,FC Barcelona Baloncesto,91-82,Iroegbu Ike,16,2,5,Bàsquet Girona
+Jornada 9,FC Barcelona Baloncesto,Bilbao Basket,98-89,Willy Hernangómez,17,5,8,FC Barcelona Baloncesto
+Jornada 10,FC Barcelona Baloncesto,Valencia Basket,84-69,Kevin Punter,20,9,12,FC Barcelona Baloncesto
+Jornada 11,UCAM Murcia Club de Baloncesto,FC Barcelona Baloncesto,102-97,Rodions Kurucs,24,7,5,UCAM Murcia Club de Baloncesto
+Jornada 12,FC Barcelona Baloncesto,Basket Zaragoza,89-87,Kevin Punter,22,7,3,FC Barcelona Baloncesto
+Jornada 13,Real Madrid Baloncesto,FC Barcelona Baloncesto,79-94,Jabari Parker,23,10,8,FC Barcelona Baloncesto
+Jornada 14,FC Barcelona Baloncesto,Fundación Club Baloncesto Granada,101-87,Willy Hernangómez,32,10,9,FC Barcelona Baloncesto
+Jornada 15,Força Lleida Club Esportiu,FC Barcelona Baloncesto,84-101,Willy Hernangómez,30,2,5,FC Barcelona Baloncesto
+Jornada 16,FC Barcelona Baloncesto,Club Baloncesto Canarias,96-97,Kevin Punter,23,11,8,FC Barcelona Baloncesto
+Jornada 17,Club Baloncesto San Pablo Burgos,FC Barcelona Baloncesto,91-69,Miha Lapornik,25,7,7,Club Baloncesto San Pablo Burgos
+Jornada 18,FC Barcelona Baloncesto,Unicaja Baloncesto,90-82,Willy Hernangómez,23,5,11,FC Barcelona Baloncesto
+Jornada 19,FC Barcelona Baloncesto,Bàsquet Club Andorra,78-83,Kevin Punter,28,9,7,FC Barcelona Baloncesto
+Jornada 20,Saski Baskonia,FC Barcelona Baloncesto,88-71,Markus Howard,32,3,3,Saski Baskonia
+Jornada 21,FC Barcelona Baloncesto,Club Baloncesto Gran Canaria,95-76,Jabari Parker,26,3,8,FC Barcelona Baloncesto
+Jornada 22,Club Joventut Badalona,FC Barcelona Baloncesto,100-94,Artem Pustovyi,19,7,8,Club Joventut Badalona
+Jornada 23,FC Barcelona Baloncesto,Club Baloncesto Breogán,82-72,Kevin Punter,32,10,5,FC Barcelona Baloncesto
+Jornada 24,Bàsquet Manresa,FC Barcelona Baloncesto,87-96,Cameron Hunt,32,11,4,Bàsquet Manresa
+Jornada 25,FC Barcelona Baloncesto,Bàsquet Girona,82-96,Juani Marcos,23,9,11,Bàsquet Girona
+Jornada 26,Bilbao Basket,FC Barcelona Baloncesto,72-73,Kevin Punter,20,10,11,FC Barcelona Baloncesto
+Jornada 27,Valencia Basket,FC Barcelona Baloncesto,101-98,Jean Montero,18,9,2,Valencia Basket
+Jornada 28,FC Barcelona Baloncesto,UCAM Murcia Club de Baloncesto,82-96,David DeJulius,27,11,8,UCAM Murcia Club de Baloncesto
+Jornada 29,Basket Zaragoza,FC Barcelona Baloncesto,80-72,AJ Slaughter,30,3,12,Basket Zaragoza
+Jornada 30,FC Barcelona Baloncesto,Real Madrid Baloncesto,82-88,Kevin Punter,27,10,6,FC Barcelona Baloncesto
+Jornada 31,Fundación Club Baloncesto Granada,FC Barcelona Baloncesto,94-93,Sergi García,32,10,3,Fundación Club Baloncesto Granada
+Jornada 32,FC Barcelona Baloncesto,Força Lleida Club Esportiu,84-91,Luka Bozic,28,10,9,Força Lleida Club Esportiu
+Jornada 33,Club Baloncesto Canarias,FC Barcelona Baloncesto,102-78,Bruno Fitipaldo,28,4,12,Club Baloncesto Canarias
+Jornada 34,FC Barcelona Baloncesto,Club Baloncesto San Pablo Burgos,96-93,Kevin Punter,25,2,6,FC Barcelona Baloncesto
+---------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Club Baloncesto Breogán,Real Madrid Baloncesto,88-86,Mario Hezonja,28,6,9,Real Madrid Baloncesto
+Jornada 2,Real Madrid Baloncesto,Bàsquet Manresa,77-75,Walter Tavares,29,11,3,Real Madrid Baloncesto
+Jornada 3,Bàsquet Girona,Real Madrid Baloncesto,80-98,Iroegbu Ike,24,10,11,Bàsquet Girona
+Jornada 4,Real Madrid Baloncesto,Bilbao Basket,78-71,Facundo Campazzo,19,5,5,Real Madrid Baloncesto
+Jornada 5,Valencia Basket,Real Madrid Baloncesto,82-71,Mario Hezonja,21,3,11,Real Madrid Baloncesto
+Jornada 6,Real Madrid Baloncesto,UCAM Murcia Club de Baloncesto,88-75,Rodions Kurucs,20,6,6,UCAM Murcia Club de Baloncesto
+Jornada 7,Basket Zaragoza,Real Madrid Baloncesto,73-79,Facundo Campazzo,29,5,6,Real Madrid Baloncesto
+Jornada 8,Real Madrid Baloncesto,Unicaja Baloncesto,72-101,Walter Tavares,22,7,8,Real Madrid Baloncesto
+Jornada 9,Real Madrid Baloncesto,Fundación Club Baloncesto Granada,86-79,Walter Tavares,32,9,2,Real Madrid Baloncesto
+Jornada 10,Força Lleida Club Esportiu,Real Madrid Baloncesto,89-95,Facundo Campazzo,26,8,4,Real Madrid Baloncesto
+Jornada 11,Real Madrid Baloncesto,Club Baloncesto Canarias,87-74,Facundo Campazzo,19,11,2,Real Madrid Baloncesto
+Jornada 12,Club Baloncesto San Pablo Burgos,Real Madrid Baloncesto,90-82,Miha Lapornik,25,11,7,Club Baloncesto San Pablo Burgos
+Jornada 13,Real Madrid Baloncesto,FC Barcelona Baloncesto,79-94,Jabari Parker,23,10,8,FC Barcelona Baloncesto
+Jornada 14,Bàsquet Club Andorra,Real Madrid Baloncesto,75-73,Walter Tavares,16,6,11,Real Madrid Baloncesto
+Jornada 15,Real Madrid Baloncesto,Saski Baskonia,104-85,Facundo Campazzo,31,5,9,Real Madrid Baloncesto
+Jornada 16,Club Baloncesto Gran Canaria,Real Madrid Baloncesto,103-102,Nicolas Brussino,23,6,5,Club Baloncesto Gran Canaria
+Jornada 17,Club Joventut Badalona,Real Madrid Baloncesto,97-85,Artem Pustovyi,17,11,9,Club Joventut Badalona
+Jornada 18,Real Madrid Baloncesto,Club Baloncesto Breogán,88-92,Toni Nakic,19,5,9,Club Baloncesto Breogán
+Jornada 19,Bàsquet Manresa,Real Madrid Baloncesto,85-69,Retin Obasohan,23,4,11,Bàsquet Manresa
+Jornada 20,Real Madrid Baloncesto,Bàsquet Girona,73-71,Juani Marcos,29,3,9,Bàsquet Girona
+Jornada 21,Bilbao Basket,Real Madrid Baloncesto,94-95,Kristian Kullamae,17,6,11,Bilbao Basket
+Jornada 22,Real Madrid Baloncesto,Valencia Basket,82-71,Facundo Campazzo,30,8,9,Real Madrid Baloncesto
+Jornada 23,UCAM Murcia Club de Baloncesto,Real Madrid Baloncesto,97-94,Dylan Ennis,16,7,4,UCAM Murcia Club de Baloncesto
+Jornada 24,Real Madrid Baloncesto,Basket Zaragoza,91-85,Facundo Campazzo,32,3,6,Real Madrid Baloncesto
+Jornada 25,Unicaja Baloncesto,Real Madrid Baloncesto,81-89,Walter Tavares,20,7,6,Real Madrid Baloncesto
+Jornada 26,Fundación Club Baloncesto Granada,Real Madrid Baloncesto,98-78,Jacob Wiley,20,6,2,Fundación Club Baloncesto Granada
+Jornada 27,Real Madrid Baloncesto,Força Lleida Club Esportiu,103-102,Walter Tavares,23,4,6,Real Madrid Baloncesto
+Jornada 28,Club Baloncesto Canarias,Real Madrid Baloncesto,98-95,Marcelinho Huertas,26,4,9,Club Baloncesto Canarias
+Jornada 29,Real Madrid Baloncesto,Club Baloncesto San Pablo Burgos,73-79,Gonzalo Corbalán,19,6,6,Club Baloncesto San Pablo Burgos
+Jornada 30,FC Barcelona Baloncesto,Real Madrid Baloncesto,82-88,Kevin Punter,27,10,6,FC Barcelona Baloncesto
+Jornada 31,Real Madrid Baloncesto,Bàsquet Club Andorra,78-71,Facundo Campazzo,29,5,4,Real Madrid Baloncesto
+Jornada 32,Saski Baskonia,Real Madrid Baloncesto,81-100,Walter Tavares,26,4,8,Real Madrid Baloncesto
+Jornada 33,Real Madrid Baloncesto,Club Baloncesto Gran Canaria,91-82,Andrew Albicy,25,5,9,Club Baloncesto Gran Canaria
+Jornada 34,Real Madrid Baloncesto,Club Joventut Badalona,83-94,Mario Hezonja,17,8,9,Real Madrid Baloncesto
+---------------------------------------------------------------------------------------------------------------------

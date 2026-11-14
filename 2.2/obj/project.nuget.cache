@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8j3Ag0oBU0k=",
+  "dgSpecHash": "DhznMSvgUhg=",
   "success": true,
   "projectFilePath": "C:\\Users\\smr2a\\Documents\\DAM32\\acceso\\2.2\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\smr2a\\.nuget\\packages\\serilog\\4.4.0\\serilog.4.4.0.nupkg.sha512",
+    "C:\\Users\\smr2a\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Bàsquet Manresa,Basket Zaragoza,88-70,Cameron Hunt,19,8,3,Bàsquet Manresa
+Jornada 2,Basket Zaragoza,Bàsquet Girona,80-83,Aljami Durham,24,11,8,Bàsquet Girona
+Jornada 3,Bilbao Basket,Basket Zaragoza,92-99,Bojan Dubljevic,25,5,2,Basket Zaragoza
+Jornada 4,Basket Zaragoza,Valencia Basket,80-98,Chris Jones,29,5,3,Valencia Basket
+Jornada 5,UCAM Murcia Club de Baloncesto,Basket Zaragoza,103-77,David DeJulius,17,11,10,UCAM Murcia Club de Baloncesto
+Jornada 6,Basket Zaragoza,Unicaja Baloncesto,90-78,AJ Slaughter,25,11,12,Basket Zaragoza
+Jornada 7,Basket Zaragoza,Real Madrid Baloncesto,73-79,Facundo Campazzo,29,5,6,Real Madrid Baloncesto
+Jornada 8,Fundación Club Baloncesto Granada,Basket Zaragoza,91-94,AJ Slaughter,25,10,4,Basket Zaragoza
+Jornada 9,Basket Zaragoza,Força Lleida Club Esportiu,92-96,Thomas Bropleh,32,8,10,Força Lleida Club Esportiu
+Jornada 10,Club Baloncesto Canarias,Basket Zaragoza,78-73,Marcelinho Huertas,21,2,6,Club Baloncesto Canarias
+Jornada 11,Basket Zaragoza,Club Baloncesto San Pablo Burgos,93-68,Bojan Dubljevic,19,8,7,Basket Zaragoza
+Jornada 12,FC Barcelona Baloncesto,Basket Zaragoza,89-87,Kevin Punter,22,7,3,FC Barcelona Baloncesto
+Jornada 13,Basket Zaragoza,Bàsquet Club Andorra,75-74,Jerrick Harding,22,6,12,Bàsquet Club Andorra
+Jornada 14,Saski Baskonia,Basket Zaragoza,101-99,Markus Howard,26,7,12,Saski Baskonia
+Jornada 15,Club Baloncesto Gran Canaria,Basket Zaragoza,81-92,AJ Slaughter,32,4,3,Basket Zaragoza
+Jornada 16,Basket Zaragoza,Club Joventut Badalona,77-89,AJ Slaughter,28,7,12,Basket Zaragoza
+Jornada 17,Club Baloncesto Breogán,Basket Zaragoza,99-84,Toni Nakic,22,8,9,Club Baloncesto Breogán
+Jornada 18,Basket Zaragoza,Bàsquet Manresa,101-72,Santi Yusta,28,10,7,Basket Zaragoza
+Jornada 19,Bàsquet Girona,Basket Zaragoza,87-91,AJ Slaughter,27,10,12,Basket Zaragoza
+Jornada 20,Basket Zaragoza,Bilbao Basket,102-96,AJ Slaughter,19,9,10,Basket Zaragoza
+Jornada 21,Valencia Basket,Basket Zaragoza,102-72,Jean Montero,18,8,3,Valencia Basket
+Jornada 22,Basket Zaragoza,UCAM Murcia Club de Baloncesto,78-73,Bojan Dubljevic,29,9,7,Basket Zaragoza
+Jornada 23,Unicaja Baloncesto,Basket Zaragoza,86-100,AJ Slaughter,27,3,8,Basket Zaragoza
+Jornada 24,Real Madrid Baloncesto,Basket Zaragoza,91-85,Facundo Campazzo,32,3,6,Real Madrid Baloncesto
+Jornada 25,Basket Zaragoza,Fundación Club Baloncesto Granada,93-76,AJ Slaughter,32,3,12,Basket Zaragoza
+Jornada 26,Força Lleida Club Esportiu,Basket Zaragoza,77-78,AJ Slaughter,20,8,3,Basket Zaragoza
+Jornada 27,Basket Zaragoza,Club Baloncesto Canarias,77-101,Santi Yusta,32,10,10,Basket Zaragoza
+Jornada 28,Club Baloncesto San Pablo Burgos,Basket Zaragoza,77-95,Santi Yusta,25,7,3,Basket Zaragoza
+Jornada 29,Basket Zaragoza,FC Barcelona Baloncesto,80-72,AJ Slaughter,30,3,12,Basket Zaragoza
+Jornada 30,Bàsquet Club Andorra,Basket Zaragoza,91-102,AJ Slaughter,21,11,11,Basket Zaragoza
+Jornada 31,Basket Zaragoza,Saski Baskonia,103-87,Santi Yusta,28,10,9,Basket Zaragoza
+Jornada 32,Basket Zaragoza,Club Baloncesto Gran Canaria,91-89,AJ Slaughter,31,11,6,Basket Zaragoza
+Jornada 33,Club Joventut Badalona,Basket Zaragoza,94-84,Ricky Rubio,23,6,10,Club Joventut Badalona
+Jornada 34,Basket Zaragoza,Club Baloncesto Breogán,82-94,Toni Nakic,31,5,6,Club Baloncesto Breogán
+---------------------------------------------------------------------------------------------------------------------

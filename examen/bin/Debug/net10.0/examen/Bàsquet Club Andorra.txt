@@ -1,0 +1,37 @@
+El equipo
+---------------------------------------------------------------------------------------------------------------------
+Jornada 1,Club Baloncesto San Pablo Burgos,Bàsquet Club Andorra,73-80,Nikos Chougkaz,29,5,9,Bàsquet Club Andorra
+Jornada 2,Bàsquet Club Andorra,FC Barcelona Baloncesto,86-88,Kevin Punter,23,2,7,FC Barcelona Baloncesto
+Jornada 3,Unicaja Baloncesto,Bàsquet Club Andorra,90-95,Jerrick Harding,24,10,4,Bàsquet Club Andorra
+Jornada 4,Saski Baskonia,Bàsquet Club Andorra,76-100,Nikos Chougkaz,31,5,10,Bàsquet Club Andorra
+Jornada 5,Bàsquet Club Andorra,Club Baloncesto Gran Canaria,75-88,Mike Tobey,31,10,10,Club Baloncesto Gran Canaria
+Jornada 6,Club Joventut Badalona,Bàsquet Club Andorra,85-89,Nikos Chougkaz,24,10,9,Bàsquet Club Andorra
+Jornada 7,Bàsquet Club Andorra,Club Baloncesto Breogán,84-93,Charlie Moore,24,7,12,Club Baloncesto Breogán
+Jornada 8,Bàsquet Manresa,Bàsquet Club Andorra,99-88,Retin Obasohan,22,10,9,Bàsquet Manresa
+Jornada 9,Bàsquet Club Andorra,Bàsquet Girona,90-83,Shannon Evans,18,4,4,Bàsquet Club Andorra
+Jornada 10,Bilbao Basket,Bàsquet Club Andorra,94-82,Kristian Kullamae,17,2,5,Bilbao Basket
+Jornada 11,Bàsquet Club Andorra,Valencia Basket,77-85,Jerrick Harding,30,11,11,Bàsquet Club Andorra
+Jornada 12,Bàsquet Club Andorra,UCAM Murcia Club de Baloncesto,90-74,Shannon Evans,23,7,4,Bàsquet Club Andorra
+Jornada 13,Basket Zaragoza,Bàsquet Club Andorra,75-74,Jerrick Harding,22,6,12,Bàsquet Club Andorra
+Jornada 14,Bàsquet Club Andorra,Real Madrid Baloncesto,75-73,Walter Tavares,16,6,11,Real Madrid Baloncesto
+Jornada 15,Fundación Club Baloncesto Granada,Bàsquet Club Andorra,87-78,Amine Noua,29,3,5,Fundación Club Baloncesto Granada
+Jornada 16,Bàsquet Club Andorra,Força Lleida Club Esportiu,81-99,Jerrick Harding,32,11,7,Bàsquet Club Andorra
+Jornada 17,Club Baloncesto Canarias,Bàsquet Club Andorra,77-92,Jerrick Harding,31,11,4,Bàsquet Club Andorra
+Jornada 18,Bàsquet Club Andorra,Club Baloncesto San Pablo Burgos,74-91,Miha Lapornik,25,7,8,Club Baloncesto San Pablo Burgos
+Jornada 19,FC Barcelona Baloncesto,Bàsquet Club Andorra,78-83,Kevin Punter,28,9,7,FC Barcelona Baloncesto
+Jornada 20,Bàsquet Club Andorra,Unicaja Baloncesto,80-102,Kendrick Perry,19,2,4,Unicaja Baloncesto
+Jornada 21,Bàsquet Club Andorra,Saski Baskonia,98-74,Shannon Evans,24,7,4,Bàsquet Club Andorra
+Jornada 22,Club Baloncesto Gran Canaria,Bàsquet Club Andorra,82-91,Shannon Evans,18,2,4,Bàsquet Club Andorra
+Jornada 23,Bàsquet Club Andorra,Club Joventut Badalona,101-91,Jerrick Harding,23,8,11,Bàsquet Club Andorra
+Jornada 24,Club Baloncesto Breogán,Bàsquet Club Andorra,84-88,Nikos Chougkaz,20,2,9,Bàsquet Club Andorra
+Jornada 25,Bàsquet Club Andorra,Bàsquet Manresa,78-100,Cameron Hunt,32,2,12,Bàsquet Manresa
+Jornada 26,Bàsquet Girona,Bàsquet Club Andorra,92-74,Aljami Durham,26,4,4,Bàsquet Girona
+Jornada 27,Bàsquet Club Andorra,Bilbao Basket,78-89,Melwin Pantzar,26,4,12,Bilbao Basket
+Jornada 28,Valencia Basket,Bàsquet Club Andorra,89-71,Semi Ojeleye,28,7,10,Valencia Basket
+Jornada 29,UCAM Murcia Club de Baloncesto,Bàsquet Club Andorra,83-91,Jerrick Harding,22,4,5,Bàsquet Club Andorra
+Jornada 30,Bàsquet Club Andorra,Basket Zaragoza,91-102,AJ Slaughter,21,11,11,Basket Zaragoza
+Jornada 31,Real Madrid Baloncesto,Bàsquet Club Andorra,78-71,Facundo Campazzo,29,5,4,Real Madrid Baloncesto
+Jornada 32,Bàsquet Club Andorra,Fundación Club Baloncesto Granada,95-77,Nikos Chougkaz,28,10,2,Bàsquet Club Andorra
+Jornada 33,Força Lleida Club Esportiu,Bàsquet Club Andorra,100-88,Oriol Paulí,22,8,10,Força Lleida Club Esportiu
+Jornada 34,Bàsquet Club Andorra,Club Baloncesto Canarias,84-102,Bruno Fitipaldo,24,4,3,Club Baloncesto Canarias
+---------------------------------------------------------------------------------------------------------------------
